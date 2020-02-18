@@ -1,4 +1,4 @@
-# catalog-storefront-ce
+# cms-storefront-ce
 
 TODO: What is the goal for the project?
 
