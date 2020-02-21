@@ -4,7 +4,8 @@ As part of our journey towards microservices and distributed deployments, we are
 
 ## Documentation
 
-TODO: Add wiki links here
+- [High level design](https://github.com/magento/cms-storefront-ce/wiki/High-Level-Design)
+- [Installation guide](https://github.com/magento/cms-storefront-ce/wiki/Installation-Guide)
 
 ## License
 
@@ -28,4 +29,4 @@ Guidelines](CONTRIBUTING.md).
 
 ## Community Engineering Slack
 
-To connect with Magento and the Community, join us on the [Magento Community Engineering Slack](https://magentocommeng.slack.com). If you are interested in joining Slack, or a specific channel, send us a request at [engcom@adobe.com](mailto:engcom@adobe.com) or [self signup](https://opensource.magento.com/slack).
+To connect with Magento and the Community, join us on the [#storefront-apps](https://magentocommeng.slack.com/archives/CUDNH966S) and [#cms-storefront-app](https://magentocommeng.slack.com/archives/CUB3LKBHS) channels. If you are interested in joining Magento Community Engineering Slack use [self signup link](https://opensource.magento.com/slack).
