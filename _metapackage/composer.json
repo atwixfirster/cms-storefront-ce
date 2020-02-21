@@ -1,0 +1,14 @@
+{
+    "name": "magento/cms-storefront-application",
+    "description": "Metapackage with Magento CMS storefront application modules for simple installation",
+    "type": "metapackage",
+    "require": {
+        "magento/module-cms-extractor": "*",
+        "magento/module-cms-message-broker": "*",
+        "magento/module-cms-storefront-api": "*",
+        "magento/module-cms-storefront-graph-ql": "*",
+        "magento/module-cms-storefront-service": "*",
+        "magento/module-cms-storefront-synchronizer": "*",
+        "magento/module-cms-synchronizer": "*"
+    }
+}
