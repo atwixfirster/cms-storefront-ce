@@ -1,6 +1,7 @@
 # Overview
 
 As part of our journey towards microservices and distributed deployments, we are beginning to decouple all CMS storefront capabilities from the Magento monolith.
+![HLD](https://github.com/magento/cms-storefront-ce/wiki/images/hld.png)
 
 ## Documentation
 
