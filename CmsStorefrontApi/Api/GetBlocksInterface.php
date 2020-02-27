@@ -11,6 +11,7 @@ use Magento\Framework\Exception\NoSuchEntityException;
 
 /**
  * Command to load blocks by specified identifier. Allows filter fields.
+ *
  * @api
  */
 interface GetBlocksInterface

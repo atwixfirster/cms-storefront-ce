@@ -12,6 +12,7 @@ use Magento\Framework\Exception\NoSuchEntityException;
 
 /**
  * Command to delete pages by identifiers.
+ *
  * @api
  */
 interface DeletePagesInterface

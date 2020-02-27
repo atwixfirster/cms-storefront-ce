@@ -12,6 +12,7 @@ use Magento\Framework\Exception\NoSuchEntityException;
 
 /**
  * Command to create blocks with the provided data.
+ *
  * @api
  */
 interface CreateBlocksInterface

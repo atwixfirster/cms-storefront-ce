@@ -11,6 +11,7 @@ use Magento\Framework\Exception\NoSuchEntityException;
 
 /**
  * Command to load pages by specified identifier. Allows filter fields.
+ *
  * @api
  */
 interface GetPagesInterface

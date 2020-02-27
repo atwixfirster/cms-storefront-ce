@@ -12,6 +12,7 @@ use Magento\Framework\Exception\NoSuchEntityException;
 
 /**
  * Command to delete blocks by identifiers.
+ *
  * @api
  */
 interface DeleteBlocksInterface

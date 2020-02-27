@@ -12,6 +12,7 @@ use Magento\Framework\Exception\NoSuchEntityException;
 
 /**
  * Command to create pages with the provided data.
+ *
  * @api
  */
 interface CreatePagesInterface
